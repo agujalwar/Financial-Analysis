@@ -7,8 +7,8 @@ Revenues based on countries, region, quarter, month, stores.
 
 #### KPIs: 
 Total revenue
-Total transactions
-Average revenue
+/n Total transactions
+/n Average revenue
 Total countries
 Total customers
 
