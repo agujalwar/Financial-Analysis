@@ -6,16 +6,16 @@ which is top performing store?
 Revenues based on countries, region, quarter, month, stores.
 
 #### KPIs: 
-Total revenue
-/n Total transactions
-/n Average revenue
-Total countries
-Total customers
+1.Total revenue
+2.Total transactions
+3.Average revenue
+4.Total countries
+5.Total customers
 
 #### Report Filter: 
 Year
-Stores 
-Quarters. 
+Stores
+Quarters 
 
 #### Visuals used:
 Cards
