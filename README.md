@@ -7,10 +7,10 @@ Revenues based on countries, region, quarter, month, stores.
 
 #### KPIs: 
 1.Total revenue
-2.Total transactions
-3.Average revenue
-4.Total countries
-5.Total customers
+</p> 2.Total transactions
+</p> 3.Average revenue
+</p> 4.Total countries
+</p> 5.Total customers
 
 #### Report Filter: 
 Year
