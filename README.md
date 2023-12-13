@@ -1,9 +1,8 @@
 # Financial-Analysis
-  In this project I created Power BI report for Financial analysis of the company. The data represent financial details about product sale like Product name, Region and Country it's sold, Sales representative who sold it, sale year and month, Store etc. 
-This report will help analyse below questions like :
-which product is generating more revenue ? 
-which is top performing store?
-Revenues based on countries, region, quarter, month, stores.
+* Analyzed product sales data encompassing product names, regions, countries, sales representatives, sale timelines (year and month), and store information.
+* Developed an interactive Power BI report offering intuitive visualization for easy interpretation of complex financial data.
+* Utilized diverse visualizations (e.g., bar graphs, tree maps, matrix, line and stacked column chart, slicer, area chart, ribbon chart) to present KPIs, revenue trends,
+performance metrics effectively.
 
 #### KPIs: 
 </p> 1. Total revenue
